@@ -8,9 +8,9 @@ Source :
 ---
 
 
-[Chapter 1 - Introduction to Python]()
+[Chapter 1 - Introduction to Python](https://github.com/Elman295/Deep-Learning-Course-INFO/blob/main/CI_python_and_Introduction.ipynb)
 
-[Chapter 2 - Introduction to Numpy and Pandas]()
+[Chapter 2 - Introduction to Numpy and Pandas](https://github.com/Elman295/Deep-Learning-Course-INFO/blob/main/CI_numpy_and_matplotlib.ipynb)
 
-[Chapter 3 - Introduction to PyTorch]()
+[Chapter 3 - Introduction to PyTorch](https://github.com/Elman295/Deep-Learning-Course-INFO/blob/main/CI_PyTorch.ipynb)
 
