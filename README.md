@@ -15,3 +15,6 @@ Source :
 [Chapter 3 - Introduction to PyTorch](https://github.com/Elman295/Deep-Learning-Course-INFO/blob/main/CI_PyTorch.ipynb)
 
 [Chapter 4 - MLP and Autoencoder](https://github.com/Elman295/Deep-Learning-Course-INFO/blob/main/CI_MLP_Auto_encoder.ipynb)
+
+
+[Chapter 5 - CNN and Transfer Learning](https://github.com/Elman295/Deep-Learning-Course-INFO/blob/main/CI_CNN_Transfer_Learning.ipynb)
